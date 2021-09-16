@@ -1,0 +1,16 @@
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\bin\Debug\net5.0\Composite.APP.exe
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\bin\Debug\net5.0\Composite.APP.deps.json
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\bin\Debug\net5.0\Composite.APP.runtimeconfig.json
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\bin\Debug\net5.0\Composite.APP.runtimeconfig.dev.json
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\bin\Debug\net5.0\Composite.APP.dll
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\bin\Debug\net5.0\ref\Composite.APP.dll
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\bin\Debug\net5.0\Composite.APP.pdb
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\obj\Debug\net5.0\Composite.APP.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\obj\Debug\net5.0\Composite.APP.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\obj\Debug\net5.0\Composite.APP.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\obj\Debug\net5.0\Composite.APP.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\obj\Debug\net5.0\Composite.APP.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\obj\Debug\net5.0\Composite.APP.dll
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\obj\Debug\net5.0\ref\Composite.APP.dll
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\obj\Debug\net5.0\Composite.APP.pdb
+E:\CodeBox\Project-Estudos\C#\A13-CompositePattern-C#Core\Composite.Pattern\Composite.APP\obj\Debug\net5.0\Composite.APP.genruntimeconfig.cache
